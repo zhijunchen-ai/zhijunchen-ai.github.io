@@ -15,6 +15,16 @@ nav_order: 2
 
 <div class="publications">
 
+<p>
+Please see <a href="https://scholar.google.com/citations?user=3slpkWAAAAAJ&hl=en">Google Scholar</a> for more recent works and details.
+</p>
+
+<p>
+†: Equal contribution.
+</p>
+
+
+
 {% bibliography %}
 
 </div>

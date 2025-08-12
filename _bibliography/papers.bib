@@ -38,7 +38,7 @@
 @article{chen2025scoring,
   abbr={Submitted},
   title={Scoring, Reasoning, and Selecting the Best! Ensembling Large Language Models via a Peer-Review Process},
-  author={Chen, Zhijun and Zeyu, Ji and Mao, Qianren and Cheng, Junhang and Qin, Bangjie and Wu, Hao and Li, Zhuoran and Li, Jingzheng and Sun, Kai and Wang, Zizhe and Sun, Zhu and Ji, Xiangyang and Sun, Hailong},
+  author={Chen†, Zhijun and Ji†, Zeyu and Mao, Qianren and Cheng, Junhang and Qin, Bangjie and Wu, Hao and Li, Zhuoran and Li, Jingzheng and Sun, Kai and Wang, Zizhe and Sun, Zhu and Ji, Xiangyang and Sun, Hailong},
   year={2025},
   selected={true}
 }
@@ -290,7 +290,7 @@
   bibtex_show={true},
   google_scholar_id={d1gkVwhDpl0C},
   pdf={https://ojs.aaai.org/index.php/AAAI/article/view/20467},
-  abstract={Learning from Crowds (LFC) seeks to induce a high-quality classifier from training instances, which are linked to a range of possible noisy annotations from crowdsourcing workers under their various levels of skills and their own preconditions. Recent studies on LFC focus on designing new methods to improve the performance of the classifier trained from crowdsourced labeled data. To this day, however, there remain under-explored security aspects of LFC systems. In this work, we seek to bridge this gap. We first show that LFC models are vulnerable to adversarial examples---small changes to input data can cause classifiers to make prediction mistakes. Second, we propose an approach, A-LFC for training a robust classifier from crowdsourced labeled data. Our empirical results on three real-world datasets show that the proposed approach can substantially improve the performance of the trained classifier even with the existence of adversarial examples. On average, A-LFC has 10.05% and 11.34% higher test robustness than the state-of-the-art in the white-box and black-box attack settings, respectively.}
+  abstract={Learning from Crowds (LFC) seeks to induce a high-quality classifier from training instances, which are linked to a range of possible noisy annotations from crowdsourcing workers under their various levels of skills and their own preconditions. Recent studies on LFC focus on designing new methods to improve the performance of the classifier trained from crowdsourced labeled data. To this day, however, there remain under-explored security aspects of LFC systems. In this work, we seek to bridge this gap. We first show that LFC models are vulnerable to adversarial examples---small changes to input data can cause classifiers to make prediction mistakes. Second, we propose an approach, A-LFC for training a robust classifier from crowdsourced labeled data. Our empirical results on three real-world datasets show that the proposed approach can substantially improve the performance of the trained classifier even with the existence of adversarial examples. On average, A-LFC has 10.05% and 11.34% higher test robustness than the state-of-the-art in the white-box and black-box attack settings, respectively.},
   code={https://github.com/yongqiangyang/A-LFC}
 }
 
@@ -310,6 +310,10 @@
   year={2021},
   organization={Springer},
   abbr={APWeb 2022},
+  bibtex_show={true},
+  google_scholar_id={u-x6o8ySG0sC},
+  pdf={https://link.springer.com/chapter/10.1007/978-3-030-85896-4_14},
+  abstract={Understanding and assessing the vulnerability of crowdsourcing learning against data poisoning attacks is the key to ensure the quality of classifiers trained from crowdsourced labeled data. Existing studies on data poisoning attacks only focus on exploring the vulnerability of crowdsourced label collection. In fact, instead of the quality of labels themselves, the performance of the trained classifier is a main concern in crowdsourcing learning. Nonetheless, the impact of data poisoning attacks on the final classifiers remains underexplored to date. We aim to bridge this gap. First, we formalize the problem of poisoning attacks, where the objective is to sabotage the trained classifier maximally. Second, we transform the problem into a bilevel min-max optimization problem for the typical learning-from-crowds model and design an efficient adversarial strategy. Extensive validation on real-world datasets demonstrates that our attack can significantly decrease the test accuracy of trained classifiers. We verified that the labels generated with our strategy can be transferred to attack a broad family of crowdsourcing learning models in a black-box setting, indicating its applicability and potential of being extended to the physical world.}
 }
 
 
@@ -325,6 +329,10 @@
   journal={arXiv preprint arXiv:2106.15146},
   year={2021},
   abbr={IJCAI Workshop 2021},
+  bibtex_show={true},
+  google_scholar_id={9yKSN-GCB0IC},
+  pdf={https://arxiv.org/abs/2106.15146},
+  abstract={Learning from multiple annotators aims to induce a high-quality classifier from training instances, where each of them is associated with a set of possibly noisy labels provided by multiple annotators under the influence of their varying abilities and own biases. In modeling the probability transition process from latent true labels to observed labels, most existing methods adopt class-level confusion matrices of annotators that observed labels do not depend on the instance features, just determined by the true labels. It may limit the performance that the classifier can achieve. In this work, we propose the noise transition matrix, which incorporates the influence of instance features on annotators' performance based on confusion matrices. Furthermore, we propose a simple yet effective learning framework, which consists of a classifier module and a noise transition matrix module in a unified neural network architecture. Experimental results demonstrate the superiority of our method in comparison with state-of-the-art methods.}
 }
 
 
@@ -336,12 +344,16 @@
 
 @inproceedings{chen2021structured,
   title={Structured Probabilistic End-to-End Learning from Crowds},
-  author={Chen, Zhijun and Wang, Huimin and Sun, Hailong and Chen, Pengpeng and Han, Tao and Liu, Xudong and Yang, Jie},
+  author={Chen†, Zhijun and Wang†, Huimin and Sun, Hailong and Chen, Pengpeng and Han, Tao and Liu, Xudong and Yang, Jie},
   booktitle={Proceedings of the twenty-ninth international conference on international joint conferences on artificial intelligence},
   pages={1512--1518},
   year={2021},
   selected=true,
   abbr={IJCAI 2020},
+  bibtex_show={true},
+  google_scholar_id={u5HHmVD_uO8C},
+  pdf={https://www.ijcai.org/proceedings/2020/0210.pdf},
+  abstract={End-to-end learning from crowds has recently been introduced as an EM-free approach to training deep neural networks directly from noisy crowdsourced annotations. It models the relationship between true labels and annotations with a specific type of neural layer, termed as the crowd layer, which can be trained using pure backpropagation. Parameters of the crowd layer, however, can hardly be interpreted as annotator reliability, as compared with the more principled probabilistic approach. The lack of probabilistic interpretation further prevents extensions of the approach to account for important factors of annotation processes, eg, instance difficulty. This paper presents SpeeLFC, a structured probabilistic model that incorporates the constraints of probability axioms for parameters of the crowd layer, which allows to explicitly model annotator reliability while benefiting from the end-toend training of neural networks. Moreover, we propose SpeeLFC-D, which further takes into account instance difficulty. Extensive validation on realworld datasets shows that our methods improve the state-of-the-art.}
 }
 
 
