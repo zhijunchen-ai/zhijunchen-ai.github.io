@@ -30,8 +30,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-Email: zhijunchen@buaa.edu.cn, zhijunchen.cs@gmail.com   
-[Google Scholar](https://scholar.google.com/citations?user=3slpkWAAAAAJ&hl=en) /  [Github](https://github.com/junchenzhi) 
+Email: zhijunchen[at]buaa.edu.cn, zhijunchen.cs[at]gmail.com   
 
 I am a PhD graduate from the [School of Computer Science](https://scse.buaa.edu.cn/) at [Beihang University](https://www.buaa.edu.cn/), under the supervision of Professor [Sun Hailong](https://hsun2022.github.io/).
 I have also had the privilege of working closely with Assistant Professor [Yang Jie](https://yangjiera.github.io/) from Delft University of Technology. 
