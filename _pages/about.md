@@ -39,5 +39,5 @@ Since my graduation in 2024, I have continued my research work ([arXiv 2025](htt
 *If you are interested in my research and have relevant postdoctoral opportunities, please feel free to contact me*. Additionally, if you are interested in discussing *potential collaboration opportunities*, I would be happy to connect.
 
 
-**Research.** My primary research interests lie in the general areas of Machine Learning and Natural Language Processing, with particular focus on LLM Ensemble and Multi-LLM System ([arXiv 2025](https://arxiv.org/abs/2502.18036)), Multi-Prompt Learning and Neural-Symbolic Learning ([ICDE 2023](https://arxiv.org/abs/2302.06337)).
+**Research.** My primary research interests lie in the general areas of Machine Learning and Natural Language Processing, with particular focus on LLM Ensemble and Multi-LLM System ([arXiv 2025](https://arxiv.org/abs/2502.18036)), Multi-Prompt Learning, and Neural-Symbolic Learning ([ICDE 2023](https://arxiv.org/abs/2302.06337)).
 
