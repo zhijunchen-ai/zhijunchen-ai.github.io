@@ -34,7 +34,7 @@ Email: zhijunchen[at]buaa.edu.cn, zhijunchen.cs[at]gmail.com
 
 
 
-I am a PhD graduate from the [School of Computer Science](https://scse.buaa.edu.cn/) at [Beihang University](https://www.buaa.edu.cn/), under the supervision of Professor [Hailong Sun](https://hsun2022.github.io/).
+I am a PhD graduate from the [School of Computer Science](https://scse.buaa.edu.cn/) at [Beihang University](https://ev.buaa.edu.cn/), under the supervision of Professor [Hailong Sun](https://hsun2022.github.io/).
 I have also had the privilege of working closely with Assistant Professor [Jie Yang](https://yangjiera.github.io/) from Delft University of Technology.
 Since my graduation in 2024, I have continued my research work ([arXiv 2025](https://arxiv.org/abs/2502.18036)) and am currently actively seeking a suitable postdoctoral position. 
 *If you are interested in my research and have relevant postdoctoral opportunities, please feel free to contact me*.
