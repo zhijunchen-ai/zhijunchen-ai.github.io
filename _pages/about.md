@@ -44,6 +44,7 @@ Since my graduation in 2024, I have continued my research work ([arXiv 2025](htt
 Looking ahead, I aim to embark on research that is more fundamental, generalizable, and of broader significance. 
 
 **Collaboration.** 
-If you are interested in discussing research collaboration, please feel free to email me.
+I am actively seeking collaborations. If you are interested in discussing ideas, collaborating on papers, or other related opportunities, please feel free email me.
+
 
 
