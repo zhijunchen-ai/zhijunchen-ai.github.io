@@ -17,5 +17,6 @@ nav_order: 6
   - EMNLP 2023
   - SIGIR 2024
   - AISTATS 2025/2026
+  - ACM Multimedia 2025
   - ICWE 2025
 
