@@ -46,7 +46,6 @@ Looking ahead, I aim to embark on research that is more fundamental, generalizab
 **Ongoing.** 1) An extended version of our survey ([arXiv 2025](https://arxiv.org/abs/2502.18036)) on LLM Ensemble; 2) A new LLM Ensemble method focused on solving inference-intensive tasks.
 
 **Collaboration.** 
-I am actively seeking collaborations. If you are interested in discussing ideas, collaborating on papers, or other related opportunities, please feel free to email me.
-
+If you are interested in discussing ideas, collaborating on papers, or other related opportunities, please feel free to email me. For highly motivated undergraduate/graduate students and early-stage PhD students: We can discuss ideas, or you can directly implement the ideas I propose.
 
 
