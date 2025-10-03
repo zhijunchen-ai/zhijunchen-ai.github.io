@@ -36,8 +36,8 @@ Email: zhijunchen[at]buaa.edu.cn, zhijunchen.cs[at]gmail.com
 
 I am a PhD graduate from the [School of Computer Science](https://scse.buaa.edu.cn/) at [Beihang University](https://ev.buaa.edu.cn/), under the supervision of Professor [Hailong Sun](https://hsun2022.github.io/).
 I have also had the privilege of working closely with Assistant Professor [Jie Yang](https://yangjiera.github.io/) from Delft University of Technology.
-Since my graduation in 2024, I have continued my research work ([arXiv 2025](https://arxiv.org/abs/2502.18036)) and am currently actively seeking a suitable postdoctoral position. 
-*If you are interested in my research and have relevant postdoctoral opportunities, please feel free to contact me*.
+Since my graduation in 2024, I have continued my research work (e.g., [arXiv 2025](https://arxiv.org/abs/2502.18036)) and am currently actively seeking a suitable postdoc position. 
+
 
 
 **Research.** My primary research interests lie in the general areas of Machine Learning and Natural Language Processing, with particular focus on LLM Ensemble and Multi-LLM System ([arXiv 2025](https://arxiv.org/abs/2502.18036)), Multi-Prompt Learning, and Neural-Symbolic Learning ([ICDE 2023](https://arxiv.org/abs/2302.06337)). 
@@ -48,3 +48,4 @@ Since my graduation in 2024, I have continued my research work ([arXiv 2025](htt
 If you are interested in discussing ideas, collaborating on papers, or other related opportunities, please feel free to email me. For highly motivated undergraduate/graduate students and early-stage researchers: I would be happy to discuss ideas together, or you can take on the code implementation.
 
 
+**Seeking postdoc/visiting scholar opportunitie. If you are interested in my research and have relevant opportunities (especially postdoc positions), please feel free to contact me.**
