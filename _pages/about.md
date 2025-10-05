@@ -48,4 +48,4 @@ Since my graduation in 2024, I have continued my research work (e.g., [arXiv 202
 If you are interested in discussing ideas, collaborating on papers, or other related opportunities, please feel free to email me. For highly motivated undergraduate/graduate students and early-stage researchers: I would be happy to discuss ideas together, or you can take on the code implementation.
 
 
-**Seeking postdoc/visiting scholar opportunitie. If you are interested in my research and have relevant opportunities (especially postdoc positions), please feel free to contact me.**
+**Seeking Postdoc/Visiting Scholar opportunitie. If you are interested in my research and have relevant opportunities (especially postdoc positions), please feel free to contact me.**
