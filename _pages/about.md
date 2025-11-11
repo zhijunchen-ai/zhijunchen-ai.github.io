@@ -42,7 +42,7 @@ Since my graduation in 2024, I have continued my research work (e.g., [arXiv 202
 
 **Research.** My primary research interests lie in the general areas of Machine Learning and Natural Language Processing, with particular focus on LLM Ensemble and Multi-LLM System ([arXiv 2025](https://arxiv.org/abs/2502.18036)), Multi-Prompt Learning, and Neural-Symbolic Learning ([ICDE 2023](https://arxiv.org/abs/2302.06337)). 
 
-**Ongoing.** 1) An extended version of our survey ([arXiv 2025](https://arxiv.org/abs/2502.18036)) on LLM Ensemble; 2) A new LLM Ensemble method focused on solving inference-intensive tasks.
+**Ongoing.** 1) An extended Journal version of our survey ([arXiv 2025](https://arxiv.org/abs/2502.18036)) on LLM Ensemble; 2) A new LLM Ensemble method focused on solving inference-intensive tasks.
 
 **Collaboration.** 
 If you are interested in discussing ideas, collaborating on papers, or other related opportunities, please feel free to email me or schedule a chat via this [link](https://calendly.com/junjunchenzhi/30min). Specifically, for highly motivated undergraduate/graduate students and early-stage researchers: I would be happy to discuss ideas together, or you can take on the code implementation.
