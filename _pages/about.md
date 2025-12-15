@@ -48,7 +48,7 @@ Since my graduation in 2024, I have continued my research work (e.g., [arXiv 202
 
 **Ongoing.** 1) An extended Journal version of our survey ([arXiv 2025](https://arxiv.org/abs/2502.18036)) on LLM Ensemble; 2) A new LLM Ensemble method focused on solving inference-intensive tasks; 3) Unsupervised ensemble fine-tuning for multiple LLMs.
 
-**Collaboration.** 1) For researchers with relevant experience: If you are interested in discussing ideas, collaborating on papers, or other related opportunities, please feel free to email me or schedule a chat via this [link](https://calendly.com/junjunchenzhi/30min); 2) For highly motivated undergraduate/graduate students and early-stage researchers: I would be happy to provide guidance and discuss ideas. Feel free to reach out.
+**Collaboration.** 1) For researchers with relevant experience: If you are interested in discussing ideas, collaborating on papers, or other related opportunities, please feel free to email me or schedule a [chat](https://calendly.com/junjunchenzhi/30min); 2) For highly motivated early-stage researchers: I would be happy to provide guidance and discuss ideas. Feel free to reach out.
 
 
 **Seeking Postdoc opportunities. If you are interested in my research and have relevant opportunities, please feel free to contact me.**
