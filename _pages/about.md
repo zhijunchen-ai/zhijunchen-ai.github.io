@@ -43,7 +43,7 @@ Since my graduation in 2024, I have continued my research work (e.g., [arXiv 202
 
 
 
-**Research.** My primary research interests lie in the general areas of Machine Learning and Natural Language Processing, with particular focus on Ensemble Learning for LLMs, including: LLM Ensemble ([arXiv 2025](https://arxiv.org/abs/2502.18036)), Best-of-N Test-Time Scaling, Multi-Prompt Learning, Unsupervised Ensemble Fine-Tuning for LLMs, etc. Looking ahead, I aim to embark on research that is more fundamental, generalizable, and of broader significance.
+**Research.** My primary research interests lie in the general areas of Machine Learning and Natural Language Processing, with particular focus on Ensemble Learning for LLMs, including: LLM Ensemble ([arXiv 2025](https://arxiv.org/abs/2502.18036)), Unsupervised Ensemble Fine-Tuning for LLMs, Best-of-N Test-Time Scaling, Multi-Prompt Learning, etc. Looking ahead, I aim to embark on research that is more fundamental, generalizable, and of broader significance.
 
 
 **Ongoing.** 1) An extended Journal version of our survey ([arXiv 2025](https://arxiv.org/abs/2502.18036)) on LLM Ensemble; 2) A new LLM Ensemble method focused on solving inference-intensive tasks; 3) Unsupervised ensemble fine-tuning for multiple LLMs.
