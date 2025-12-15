@@ -46,7 +46,7 @@ Since my graduation in 2024, I have continued my research work (e.g., [arXiv 202
 **Research.** My primary research interests lie in the general areas of Machine Learning and Natural Language Processing, with particular focus on Ensemble Learning for LLMs, including: LLM Ensemble (for Inference) ([arXiv 2025](https://arxiv.org/abs/2502.18036)), Ensemble Fine-Tuning for LLMs, Best-of-N Test-Time Scaling, Multi-Prompt Learning, etc. Looking ahead, I aim to embark on research that is more fundamental, generalizable, and of broader significance.
 
 
-**Ongoing.** 1) An extended Journal version of our survey ([arXiv 2025](https://arxiv.org/abs/2502.18036)) on LLM Ensemble; 2) A new LLM Ensemble method focused on solving inference-intensive tasks; 3) Unsupervised ensemble fine-tuning for multiple LLMs.
+**Ongoing.** 1) An extended Journal version of our survey ([arXiv 2025](https://arxiv.org/abs/2502.18036)) on LLM Ensemble; 2) A new LLM Ensemble method focused on solving inference-intensive tasks; 3) Ensemble fine-tuning for LLMs.
 
 **Collaboration.** 1) For researchers with relevant experience: If you are interested in discussing ideas, collaborating on papers, or other related opportunities, please feel free to email me or schedule a [chat](https://calendly.com/junjunchenzhi/30min); 2) For highly motivated early-stage researchers: I would be happy to provide guidance and discuss ideas. Feel free to reach out.
 
