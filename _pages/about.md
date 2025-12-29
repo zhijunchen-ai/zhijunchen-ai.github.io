@@ -50,7 +50,7 @@ Since my graduation in 2024, I have continued my research work (e.g., [arXiv 202
 
 **Collaboration.** If you are interested in my research, please feel free to reach out. (For early-stage researchers, I am also happy to provide guidance and discuss ideas.)
 
-**Seeking Postdoc/Visiting Scholar positions. If my research aligns with your interests, I would be happy to discuss potential opportunities.**
+**Seeking Postdoc/Visiting Scholar positions! If my research aligns with your interests, I would be happy to discuss potential opportunities.**
 
 
 
