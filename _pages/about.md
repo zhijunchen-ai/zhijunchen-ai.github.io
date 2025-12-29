@@ -63,7 +63,8 @@ Since my graduation in 2024, I have continued my research work (e.g., [arXiv 202
 <div style="margin-bottom: 5px;"><strong>News:</strong></div>
 
 - **[2025-12]** New arXiv preprint "Scoring, Reasoning, and Selecting the Best! Ensembling Large Language Models via a Peer-Review Process", introduces an unsupervised method to ensemble multiple LLM outputs. See [Project](https://zeyuji.github.io/LLM-PeerReview/).
-- **[2025-12]** Grateful for the community's interest in our survey "Harnessing Multiple Large Language Models: A Survey on LLM Ensemble", which has reached 50+ citations and 180+ github stars.
+- **[2025-12]** We are delighted that our 2025 survey "Harnessing Multiple Large Language Models: A Survey on LLM Ensemble" has gained community interest, reaching 50+ citations and 180+ GitHub stars as of late Dec. 2025.
+
 
 
 </div>
