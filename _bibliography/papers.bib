@@ -7,15 +7,33 @@
 
 
 
+@article{hen2025LLMBoost,
+  abbr={arXiv 2025},
+  title={LLMBoost: Make Large Language Models Stronger with Boosting},
+  author={Chen, Zehao and Ai, Tianxiang and Li, Yifei and Li, Gongxun and Wei, Yuyang and Zhou, Wang and Li, Guanghui and Yu, Bin and Chen, Zhijun and Sun, Hailong and Zhuang, Fuzhen and Li, Jianxin and Wang, Deqing and Ban, Yikun},
+  selected={true},
+  journal={arXiv preprint arXiv:2512.22309},
+  year={2025},
+  abbr={arXiv 2025},
+  bibtex_show={true},
+  pdf={https://arxiv.org/abs/2512.22309v1},
+  abstract={Ensemble learning of LLMs has emerged as a promising alternative to enhance performance, but existing approaches typically treat models as black boxes, combining the inputs or final outputs while overlooking the rich internal representations and interactions across this http URL this work, we introduce LLMBoost, a novel ensemble fine-tuning framework that breaks this barrier by explicitly leveraging intermediate states of LLMs. Inspired by the boosting paradigm, LLMBoost incorporates three key innovations. First, a cross-model attention mechanism enables successor models to access and fuse hidden states from predecessors, facilitating hierarchical error correction and knowledge transfer. Second, a chain training paradigm progressively fine-tunes connected models with an error-suppression objective, ensuring that each model rectifies the mispredictions of its predecessor with minimal additional computation. Third, a near-parallel inference paradigm design pipelines hidden states across models layer by layer, achieving inference efficiency approaching single-model decoding. We further establish the theoretical foundations of LLMBoost, proving that sequential integration guarantees monotonic improvements under bounded correction assumptions. Extensive experiments on commonsense reasoning and arithmetic reasoning tasks demonstrate that LLMBoost consistently boosts accuracy while reducing inference latency.},
+}
+
+
 @article{chen2025scoring,
   abbr={arXiv 2025},
   title={Scoring, Reasoning, and Selecting the Best! Ensembling Large Language Models via a Peer-Review Process},
   author={Chen†, Zhijun and Ji†, Zeyu and Mao, Qianren and Wu, Hao, and Cheng, Junhang and Qin, Bangjie and Li, Zhuoran and Li, Jingzheng and Sun, Kai and Wang, Zizhe and Ban, Yikun and Sun, Zhu and Ji, Xiangyang and Sun, Hailong},
-  selected={true},
+  journal={arXiv preprint arXiv:2512.23213},
   year={2025},
-  journal={To be submitted to arXiv soon},
+  selected={true},
+  bibtex_show={true},
+  pdf={https://arxiv.org/abs/2512.23213},
+  abstract={We propose LLM-PeerReview, an unsupervised LLM Ensemble method that selects the most ideal response from multiple LLM-generated candidates for each query, harnessing the collective wisdom of multiple models with diverse strengths. LLM-PeerReview is built on a novel, peer-review-inspired framework that offers a clear and interpretable mechanism, while remaining fully unsupervised for flexible adaptability and generalization. Specifically, it operates in three stages: For scoring, we use the emerging LLM-as-a-Judge technique to evaluate each response by reusing multiple LLMs at hand; For reasoning, we can apply a principled graphical model-based truth inference algorithm or a straightforward averaging strategy to aggregate multiple scores to produce a final score for each response; Finally, the highest-scoring response is selected as the best ensemble output. LLM-PeerReview is conceptually simple and empirically powerful. The two variants of the proposed approach obtain strong results across four datasets, including outperforming the recent advanced model Smoothie-Global by 6.9% and 7.3% points, respectively.},
+  code={https://github.com/zeyuji/LLM-PeerReview},
+  website={https://zeyuji.github.io/LLM-PeerReview/}
 }
-
 
 
 @article{chen2025harnessing,
