@@ -33,20 +33,20 @@ latest_posts:
 Email: zhijunchen[at]buaa.edu.cn, zhijunchen.cs[at]gmail.com   
 
 
-
-I am a PhD graduate from the [School of Computer Science](https://scse.buaa.edu.cn/) at [Beihang University](https://ev.buaa.edu.cn/), under the supervision of Professor [Hailong Sun](https://hsun2022.github.io/).
-I have also had the privilege of working closely with Assistant Professor [Jie Yang](https://yangjiera.github.io/) from Delft University of Technology.
-Since my graduation in 2024, I have continued my research work (e.g., [arXiv 2025](https://arxiv.org/abs/2502.18036)) and am currently actively seeking a suitable postdoc position. 
-
+Currently, I am a Visiting Scholar in the Lab of Prof. [Yikun Ban](https://yangjiera.github.io/) at Beihang University.
+I earned my PhD from the [School of Computer Science](https://scse.buaa.edu.cn/) at [Beihang University](https://ev.buaa.edu.cn/), under the supervision of Prof. [Hailong Sun](https://hsun2022.github.io/).
+I have also had the privilege of working closely with and learning from Prof. [Jie Yang](https://yangjiera.github.io/) from Delft University of Technology.
 
 
 
 
 
-**Research.** My primary research interests lie in the general areas of Machine Learning and Natural Language Processing, with particular focus on Ensemble Learning for LLMs, including: LLM Ensemble (for Inference) ([arXiv 2025](https://arxiv.org/abs/2502.18036)), Ensemble Fine-Tuning for LLMs, Best-of-N Test-Time Scaling, Multi-Prompt Learning, etc. Looking ahead, I aim to embark on research that is more fundamental, generalizable, and of broader significance.
+
+**Research.** My primary research interests lie in the general areas of ML and NLP, with a particular focus on LLM Ensemble (for Inference) ([arXiv 2025](https://arxiv.org/abs/2502.18036)), Ensemble RL for LLMs, and other related Ensemble Learning for LLMs, e.g., Best-of-N Test-Time Scaling, Multi-Prompt Learning, etc.
+Looking ahead, I aim to embark on research that is more fundamental, generalizable, and of broader significance.
 
 
-**Ongoing.** 1) An extended Journal version of our survey ([arXiv 2025](https://arxiv.org/abs/2502.18036)) on LLM Ensemble; 2) Ensemble fine-tuning for LLMs.
+**Ongoing.** 1) An extended Journal version of our survey ([arXiv 2025](https://arxiv.org/abs/2502.18036)) on LLM Ensemble; 2) Ensemble RL for LLMs.
 
 **Collaboration.** If you are interested in my research, please feel free to reach out. (For early-stage researchers, I am also happy to provide guidance and discuss ideas.)
 
