@@ -48,15 +48,12 @@ Looking ahead, I aim to embark on research that is more fundamental, generalizab
 
 **Ongoing.** 1) An extended Journal version of our survey ([arXiv 2025](https://arxiv.org/abs/2502.18036)) on LLM Ensemble; 2) Ensemble RL for LLMs.
 
-**Collaboration.** If you are interested in my research, please feel free to reach out. (For early-stage researchers, I am also happy to provide guidance and discuss ideas.)
-
-**Seeking Postdoc/Visiting Scholar positions! If my research aligns with your interests, I would be happy to discuss potential opportunities.**
+**Collaboration.** If you are interested in my research, please feel free to reach out; for early-stage researchers, I am also happy to provide guidance and discuss ideas.
 
 
 
 
-
-
+**<span style="color: red;">Seeking positions! Currently on the job market for Postdoc/Visiting Scholar positions starting in 2026 (available immediately). Feel free to get in touch by email.</span>**
 
 <div style="margin-top: 20px; margin-bottom: 20px;" markdown="1">
 
