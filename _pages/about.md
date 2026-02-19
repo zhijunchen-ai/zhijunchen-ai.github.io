@@ -51,7 +51,7 @@ Looking ahead, I will stay open-minded and aim to embark on research that is mor
 
 
 
-**<span style="color: red;">Seeking positions! Currently on the job market for Postdoc/Visiting Scholar positions starting in 2026 (available immediately). Feel free to get in touch by email.</span>**
+<span style="color: red;">**Seeking positions!** Currently on the job market for Postdoc/Visiting Scholar positions starting in 2026 (available immediately). Feel free to get in touch by email.</span>
 
 <div style="margin-top: 20px; margin-bottom: 20px;" markdown="1">
 
