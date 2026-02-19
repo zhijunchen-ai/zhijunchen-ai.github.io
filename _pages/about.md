@@ -38,11 +38,7 @@ I earned my PhD from the [School of Computer Science](https://scse.buaa.edu.cn/)
 I have also had the privilege of working closely with and learning from Prof. [Jie Yang](https://yangjiera.github.io/) from Delft University of Technology.
 
 
-
-
-
-
-**Research.** My primary research interests lie in the general areas of ML and NLP, with a particular focus on LLM Ensemble (for Inference) ([arXiv 2025](https://arxiv.org/abs/2502.18036)), Ensemble RL for LLMs, and other related Ensemble Learning for LLMs, e.g., Best-of-N Test-Time Scaling, Multi-Prompt Learning, etc.
+**Research.** Recently, my research focus on **1) Ensemble Learning for LLMs**  ([arXiv 2025](https://arxiv.org/abs/2502.18036)), including Ensemble Inference/RL/SFT for LLMs, and other related topics (e.g., Best-of-N Test-Time Scaling, Multi-Prompt Learning); **2) Reinforcement Learning for LLMs.**
 Looking ahead, I aim to embark on research that is more fundamental, generalizable, and of broader significance.
 
 
