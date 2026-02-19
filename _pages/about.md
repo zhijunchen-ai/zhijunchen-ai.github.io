@@ -39,7 +39,7 @@ I have also had the privilege of working closely with and learning from Prof. [J
 
 
 **Research.** Recently, my research focus on **1) Ensemble Learning for LLMs**  ([arXiv 2025](https://arxiv.org/abs/2502.18036)), including Ensemble Inference/RL/SFT for LLMs, and other related topics (e.g., Best-of-N Test-Time Scaling, Multi-Prompt Learning); **2) Reinforcement Learning for LLMs.**
-Looking ahead, I aim to embark on research that is more fundamental, generalizable, and of broader significance.
+Looking ahead, I will stay open-minded and aim to embark on research that is more fundamental, generalizable, and of broader significance.
 
 
 
