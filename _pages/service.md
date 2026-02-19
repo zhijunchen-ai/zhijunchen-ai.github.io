@@ -14,9 +14,7 @@ nav_order: 6
   - AAAI 2023/2024/2026 
   - IJCAI 2025/2026
   - ACL 2023/2026
-  - EMNLP 2023
-  - SIGIR 2024
   - AISTATS 2025/2026
-  - ACM Multimedia 2025
-  - ICWE 2025
+  - ACM Multimedia 2025/2026
+  - Others: EMNLP 2023, SIGIR 2024, ICWE 2025
 
