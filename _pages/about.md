@@ -53,6 +53,7 @@ Looking ahead, I will stay open-minded and aim to embark on research that is mor
 
 <span style="color: red;">**Seeking positions!** Currently on the job market for Postdoc/Visiting Scholar positions starting in 2026 (available immediately). Feel free to get in touch by email.</span>
 
+
 <div style="margin-top: 20px; margin-bottom: 20px;" markdown="1">
 
 <div style="margin-bottom: 5px;"><strong>News:</strong></div>
@@ -61,7 +62,7 @@ Looking ahead, I will stay open-minded and aim to embark on research that is mor
 
 - **[2026-2]** Accept by ICDE 2026. "XRAG: eXamining the Core -- Benchmarking Foundational Components in Advanced Retrieval-Augmented Generation". See [Project](https://github.com/DocAILab/XRAG),  [Paper](https://arxiv.org/abs/2412.15529).
 - **[2025-12]** New arXiv preprint "Scoring, Reasoning, and Selecting the Best! Ensembling Large Language Models via a Peer-Review Process", introduces an unsupervised method to ensemble multiple LLM outputs. See [Project](https://zeyuji.github.io/LLM-PeerReview/), [Paper](https://arxiv.org/abs/2512.23213)
-- **[2025-12]** We are delighted that our 2025 survey "Harnessing Multiple Large Language Models: A Survey on LLM Ensemble" has gained community interest, reaching 50+ citations and 180+ GitHub stars as of late Dec. 2025. See [Project](https://junchenzhi.github.io/LLM-Ensemble/),  [Paper](https://github.com/junchenzhi/Awesome-LLM-Ensemble).
+- **[2025-12]** Our 2025 survey "Harnessing Multiple Large Language Models: A Survey on LLM Ensemble" has gained community interest, reaching 50+ citations and 180+ GitHub stars as of late Dec. 2025. See [Project](https://junchenzhi.github.io/LLM-Ensemble/),  [Paper](https://github.com/junchenzhi/Awesome-LLM-Ensemble).
 
 
 
