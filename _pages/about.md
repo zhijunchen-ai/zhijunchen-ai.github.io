@@ -51,18 +51,20 @@ Looking ahead, I will stay open-minded and aim to embark on research that is mor
 
 
 
-<span style="color: red;">**Seeking positions!** Currently on the job market for Postdoc/Visiting Scholar positions starting in 2026 (available immediately). Feel free to get in touch by email.</span>
+**<span style="color: red;">Seeking positions! Currently on the job market for Postdoc/Visiting Scholar positions starting in 2026 (available immediately). Feel free to get in touch by email.</span>**
 
-
-<div style="margin-top: 20px; margin-bottom: 20px;" markdown="1">
-
-<div style="margin-bottom: 5px;"><strong>News:</strong></div>
-
-
-
-- **[2025-12]** New arXiv preprint "Scoring, Reasoning, and Selecting the Best! Ensembling Large Language Models via a Peer-Review Process", introduces an unsupervised method to ensemble multiple LLM outputs. See [Project](https://zeyuji.github.io/LLM-PeerReview/), [Paper](https://arxiv.org/abs/2512.23213)
-- **[2025-12]** Our 2025 survey "Harnessing Multiple Large Language Models: A Survey on LLM Ensemble" has gained community interest, reaching 50+ citations and 180+ GitHub stars as of late Dec. 2025. See [Project](https://junchenzhi.github.io/LLM-Ensemble/),  [Paper](https://github.com/junchenzhi/Awesome-LLM-Ensemble).
-
-
-
+<div style="margin-top: 1px; margin-bottom: 20px;">
+  <div style="margin-bottom: 1px;"><strong>News:</strong></div>
+  
+  <ul style="list-style-type: disc; margin-left: 2px;">
+    <li style="margin-bottom: 4px;">
+      <strong>[2026-2]</strong> Accepted by ICDE 2026. "XRAG: eXamining the Core—Benchmarking Foundational Components in Advanced Retrieval-Augmented Generation", introduces a RAG systems-oriented benchmarking framework. <a href="https://github.com/DocAILab/XRAG">Project</a>, <a href="https://arxiv.org/abs/2412.15529">Paper</a>.
+    </li>
+    <li style="margin-bottom: 4px;">
+      <strong>[2025-12]</strong> New arXiv preprint "Scoring, Reasoning, and Selecting the Best! Ensembling Large Language Models via a Peer-Review Process", introduces an unsupervised method to ensemble multiple LLM outputs.  <a href="https://zeyuji.github.io/LLM-PeerReview/">Project</a>, <a href="https://arxiv.org/abs/2512.23213">Paper</a>.
+    </li>
+    <li style="margin-bottom: 4px;">
+      <strong>[2025-12]</strong> Our 2025 survey "A Survey on LLM Ensemble" has gained 50+ citations and 180+ GitHub stars as of late Dec. 2025. <a href="https://junchenzhi.github.io/LLM-Ensemble/">Project</a>, <a href="https://github.com/junchenzhi/Awesome-LLM-Ensemble">Paper</a>.
+    </li>
+  </ul>
 </div>
