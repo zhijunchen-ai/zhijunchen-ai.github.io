@@ -44,7 +44,7 @@ Looking ahead, I will stay open-minded and aim to embark on research that is mor
 
 
 
-**Ongoing.** 1) Ensemble RL for LLMs; 2) LLM Ensemble Inference + Test-Time Scaling; 3) An extended Journal version of our survey ([arXiv 2025](https://arxiv.org/abs/2502.18036)) on LLM Ensemble;
+**Ongoing.** 1) Ensemble RL for LLMs (MARL); 2) LLM Ensemble Inference + Test-Time Scaling; 3) An extended Journal version of our survey ([arXiv 2025](https://arxiv.org/abs/2502.18036)) on LLM Ensemble;
 
 **Collaboration.** If you are interested in my research, please feel free to reach out; for early-stage researchers, I am also happy to provide guidance and discuss ideas.
 
