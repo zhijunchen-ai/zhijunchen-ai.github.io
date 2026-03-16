@@ -56,6 +56,20 @@ layout: default
       {% include latest_posts.liquid %}
     {% endif %}
 
+
+    <!-- Social -->
+    {% if page.social %}
+      <div class="social" style="margin-bottom: 40px;">
+        <div class="contact-icons">{% include social.liquid %}</div>
+
+
+        <div class="contact-note" style="font-size: 0.8rem; margin-top: 10px; opacity: 0.8;">
+        Email: zhijunchen[at]buaa.edu.cn, zhijunchen.cs[at]gmail.com
+        </div>
+      </div>
+    {% endif %}
+
+
     <!-- Selected papers -->
     {% if page.selected_papers %}
       <h2>
@@ -66,14 +80,7 @@ layout: default
 
 
 
-    <!-- Social -->
-    {% if page.social %}
-      <div class="social">
-        <div class="contact-icons">{% include social.liquid %}</div>
 
-        <div class="contact-note">{{ site.contact_note }}</div>
-      </div>
-    {% endif %}
 
     {% if site.newsletter and site.newsletter.enabled and site.footer_fixed %}
       {% include newsletter.liquid center=true %}

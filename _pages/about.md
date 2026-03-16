@@ -17,8 +17,9 @@ profile:
 
 [//]: # (#    <p>Your City, State 12345</p>)
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+
 social: true # includes social icons at the bottom of the page
+selected_papers: true # includes a list of papers marked as "selected={true}"
 
 announcements:
   enabled: false # includes a list of news items
@@ -30,7 +31,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-Email: zhijunchen[at]buaa.edu.cn, zhijunchen.cs[at]gmail.com   
+  
 
 
 Currently, I am a Visiting Scholar in the Lab of Prof. [Yikun Ban](https://www.banyikun.com/) at Beihang University.
@@ -38,8 +39,8 @@ I earned my PhD from the [School of Computer Science](https://scse.buaa.edu.cn/)
 I have also had the privilege of working closely with and learning from Prof. [Jie Yang](https://yangjiera.github.io/) from Delft University of Technology.
 
 
-**Research.** Recently, my research focus on **1) Ensemble Learning for LLMs**  ([arXiv 2025](https://arxiv.org/abs/2502.18036)), including Ensemble Inference/RL/SFT for LLMs, and other related topics (e.g., Best-of-N Test-Time Scaling, Multi-Prompt Learning); **2) Reinforcement Learning for LLMs.**
-Looking ahead, I will stay open-minded and aim to embark on research that is more fundamental, generalizable, and of broader significance.
+**Research.** Recently, focus on **1) Ensemble Learning for LLMs**  ([arXiv 2025](https://arxiv.org/abs/2502.18036)), including Ensemble Inference/RL/SFT for LLMs, and other related topics (e.g., Best-of-N Test-Time Scaling, Multi-Prompt Learning); **2) Reinforcement Learning for LLMs.**
+Looking ahead, I will stay open-minded and aim to embark on research that is more broadly significant.
 
 
 
