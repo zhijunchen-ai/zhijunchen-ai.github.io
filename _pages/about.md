@@ -35,7 +35,7 @@ latest_posts:
 
 
 Currently, I am a Visiting Scholar in the Lab of Prof. [Yikun Ban](https://www.banyikun.com/) at Beihang University.
-I earned my PhD from the [School of Computer Science](https://scse.buaa.edu.cn/) at [Beihang University](https://ev.buaa.edu.cn/), under the supervision of Prof. [Hailong Sun](https://hsun2022.github.io/).
+I earned my PhD from the [School of Computer Science](https://scse.buaa.edu.cn/) at [Beihang University](https://ev.buaa.edu.cn/), advised by Prof. [Hailong Sun](https://hsun2022.github.io/).
 I have also had the privilege of working closely with and learning from Prof. [Jie Yang](https://yangjiera.github.io/) from Delft University of Technology.
 
 
@@ -52,7 +52,6 @@ Looking ahead, I will stay open-minded and aim to embark on research that is mor
 
 
 
-**<span style="color: red;">Seeking positions! Currently on the job market for Postdoc/Visiting Scholar positions starting in 2026 (available immediately). Feel free to get in touch by email.</span>**
 
 <div style="margin-top: 1px; margin-bottom: 20px;">
   <div style="margin-bottom: 1px;"><strong>News:</strong></div>
