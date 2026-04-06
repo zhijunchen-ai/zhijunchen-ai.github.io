@@ -57,6 +57,9 @@ Looking ahead, I will stay open-minded and aim to embark on research that is mor
   <div style="margin-bottom: 1px;"><strong>News:</strong></div>
   
   <ul style="list-style-type: disc; margin-left: 2px;">
+   <li style="margin-bottom: 4px;">
+      <strong>[2026-4]</strong> Accepted by ACL Findings 2026. "Enhancing Multilingual Reasoning via Steerable Model Merging".
+    </li>
     <li style="margin-bottom: 4px;">
       <strong>[2026-2]</strong> Accepted by ICDE 2026. "XRAG: eXamining the Core—Benchmarking Foundational Components in Advanced Retrieval-Augmented Generation", introduces a RAG systems-oriented benchmarking framework. <a href="https://github.com/DocAILab/XRAG">Github</a>, <a href="https://arxiv.org/abs/2412.15529">Paper</a>.
     </li>
