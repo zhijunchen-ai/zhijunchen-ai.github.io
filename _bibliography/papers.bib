@@ -5,19 +5,20 @@
 
 
 
-
-
-@article{hen2025LLMBoost,
-  abbr={arXiv 2025},
-  title={LLMBoost: Make Large Language Models Stronger with Boosting},
-  author={Chen, Zehao and Ai, Tianxiang and Li, Yifei and Li, Gongxun and Wei, Yuyang and Zhou, Wang and Li, Guanghui and Yu, Bin and Chen, Zhijun and Sun, Hailong and Zhuang, Fuzhen and Li, Jianxin and Wang, Deqing and Ban, Yikun},
+@inproceedings{chen2025harnessing,
+  title={Harnessing Multiple Large Language Models: A Survey on LLM Ensemble},
+  author={Chen, Zhijun and and Lu, Xiaodong and Li, Jingzheng and Chen, Pengpeng and Li, Zhuoran and Sun, Kai and Luo, Yuankai and Mao, Qianren and Li, Ming and Xiao, Likang and Yang, Dingqi and Huang, Xiao and Ban, Yikun  and Sun, Hailong and Yu, Philip S},
+  booktitle={IJCAI},
+  year={2026},
   selected={true},
-  journal={arXiv preprint arXiv:2512.22309},
-  year={2025},
-  abbr={arXiv 2025},
+  abbr={IJCAI 2026},
   bibtex_show={true},
-  pdf={https://arxiv.org/abs/2512.22309v1},
-  abstract={Ensemble learning of LLMs has emerged as a promising alternative to enhance performance, but existing approaches typically treat models as black boxes, combining the inputs or final outputs while overlooking the rich internal representations and interactions across this http URL this work, we introduce LLMBoost, a novel ensemble fine-tuning framework that breaks this barrier by explicitly leveraging intermediate states of LLMs. Inspired by the boosting paradigm, LLMBoost incorporates three key innovations. First, a cross-model attention mechanism enables successor models to access and fuse hidden states from predecessors, facilitating hierarchical error correction and knowledge transfer. Second, a chain training paradigm progressively fine-tunes connected models with an error-suppression objective, ensuring that each model rectifies the mispredictions of its predecessor with minimal additional computation. Third, a near-parallel inference paradigm design pipelines hidden states across models layer by layer, achieving inference efficiency approaching single-model decoding. We further establish the theoretical foundations of LLMBoost, proving that sequential integration guarantees monotonic improvements under bounded correction assumptions. Extensive experiments on commonsense reasoning and arithmetic reasoning tasks demonstrate that LLMBoost consistently boosts accuracy while reducing inference latency.},
+  selected={true},
+  pdf={https://arxiv.org/abs/2502.18036},
+  blog={https://mp.weixin.qq.com/s/yVWzHQmr_KyyOfY5k3ivOw},
+  code={https://github.com/junchenzhi/Awesome-LLM-Ensemble},
+  website={https://junchenzhi.github.io/LLM-Ensemble/},
+  abstract={LLM Ensemble -- which involves the comprehensive use of multiple large language models (LLMs), each aimed at handling user queries during downstream inference, to benefit from their individual strengths -- has gained substantial attention recently. The widespread availability of LLMs, coupled with their varying strengths and out-of-the-box usability, has profoundly advanced the field of LLM Ensemble. This paper presents the first systematic review of recent developments in LLM Ensemble. First, we introduce our taxonomy of LLM Ensemble and discuss several related research problems. Then, we provide a more in-depth classification of the methods under the broad categories of "ensemble-before-inference, ensemble-during-inference, ensemble-after-inference'', and review all relevant methods. Finally, we introduce related benchmarks and applications, summarize existing studies, and suggest several future research directions. A curated list of papers on LLM Ensemble is available at https://github.com/junchenzhi/Awesome-LLM-Ensemble.},
 }
 
 
@@ -37,24 +38,20 @@
 }
 
 
-@article{chen2025harnessing,
+
+
+@article{hen2025LLMBoost,
   abbr={arXiv 2025},
-  title={Harnessing Multiple Large Language Models: A Survey on LLM Ensemble},
-  bibtex_show={true},
-  author={Chen, Zhijun and and Lu, Xiaodong and Li, Jingzheng and Chen, Pengpeng and Li, Zhuoran and Sun, Kai and Luo, Yuankai and Mao, Qianren and Li, Ming and Xiao, Likang and Yang, Dingqi and Huang, Xiao and Ban, Yikun  and Sun, Hailong and Yu, Philip S},
-  journal={arXiv preprint arXiv:2502.18036},
-  year={2025},
+  title={LLMBoost: Make Large Language Models Stronger with Boosting},
+  author={Chen, Zehao and Ai, Tianxiang and Li, Yifei and Li, Gongxun and Wei, Yuyang and Zhou, Wang and Li, Guanghui and Yu, Bin and Chen, Zhijun and Sun, Hailong and Zhuang, Fuzhen and Li, Jianxin and Wang, Deqing and Ban, Yikun},
   selected={true},
-  pdf={https://arxiv.org/abs/2502.18036},
-  blog={https://mp.weixin.qq.com/s/yVWzHQmr_KyyOfY5k3ivOw},
-  code={https://github.com/junchenzhi/Awesome-LLM-Ensemble},
-  website={https://junchenzhi.github.io/LLM-Ensemble/},
-  abstract={LLM Ensemble -- which involves the comprehensive use of multiple large language models (LLMs), each aimed at handling user queries during downstream inference, to benefit from their individual strengths -- has gained substantial attention recently. The widespread availability of LLMs, coupled with their varying strengths and out-of-the-box usability, has profoundly advanced the field of LLM Ensemble. This paper presents the first systematic review of recent developments in LLM Ensemble. First, we introduce our taxonomy of LLM Ensemble and discuss several related research problems. Then, we provide a more in-depth classification of the methods under the broad categories of "ensemble-before-inference, ensemble-during-inference, ensemble-after-inference'', and review all relevant methods. Finally, we introduce related benchmarks and applications, summarize existing studies, and suggest several future research directions. A curated list of papers on LLM Ensemble is available at https://github.com/junchenzhi/Awesome-LLM-Ensemble.},
+  journal={arXiv preprint arXiv:2512.22309},
+  year={2025},
+  abbr={arXiv 2025},
+  bibtex_show={true},
+  pdf={https://arxiv.org/abs/2512.22309v1},
+  abstract={Ensemble learning of LLMs has emerged as a promising alternative to enhance performance, but existing approaches typically treat models as black boxes, combining the inputs or final outputs while overlooking the rich internal representations and interactions across this http URL this work, we introduce LLMBoost, a novel ensemble fine-tuning framework that breaks this barrier by explicitly leveraging intermediate states of LLMs. Inspired by the boosting paradigm, LLMBoost incorporates three key innovations. First, a cross-model attention mechanism enables successor models to access and fuse hidden states from predecessors, facilitating hierarchical error correction and knowledge transfer. Second, a chain training paradigm progressively fine-tunes connected models with an error-suppression objective, ensuring that each model rectifies the mispredictions of its predecessor with minimal additional computation. Third, a near-parallel inference paradigm design pipelines hidden states across models layer by layer, achieving inference efficiency approaching single-model decoding. We further establish the theoretical foundations of LLMBoost, proving that sequential integration guarantees monotonic improvements under bounded correction assumptions. Extensive experiments on commonsense reasoning and arithmetic reasoning tasks demonstrate that LLMBoost consistently boosts accuracy while reducing inference latency.},
 }
-
-
-
-
 
 
 
