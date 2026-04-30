@@ -52,22 +52,24 @@ Looking ahead, I will stay open-minded and aim to embark on research that is mor
 
 
 
-
 <div style="margin-top: 1px; margin-bottom: 20px;">
   <div style="margin-bottom: 1px;"><strong>News:</strong></div>
   
   <ul style="list-style-type: disc; margin-left: 2px;">
    <li style="margin-bottom: 4px;">
-      <strong>[2026-5]</strong>  I will start my postdoctoral research soon.
+      <strong>[2026-05]</strong>  I will start my postdoctoral research soon.
     </li>
     <li style="margin-bottom: 4px;">
-      <strong>[2026-5]</strong>  Our survey "A Survey on LLM Ensemble" (100+ citations and 200+ GitHub stars) accepted by IJCAI 2026.  <a href="https://junchenzhi.github.io/LLM-Ensemble/">Project</a>, <a href="https://github.com/junchenzhi/Awesome-LLM-Ensemble">Github</a>, <a href="https://github.com/junchenzhi/Awesome-LLM-Ensemble">Paper</a>.
+      <strong>[2026-05]</strong>  Our survey "A Survey on LLM Ensemble" (100+ citations and 200+ GitHub stars) accepted by IJCAI 2026.  <a href="https://junchenzhi.github.io/LLM-Ensemble/">Project</a>, <a href="https://github.com/junchenzhi/Awesome-LLM-Ensemble">Github</a>, <a href="https://arxiv.org/abs/2502.18036">Paper</a>.
+    </li>
+   <li style="margin-bottom: 4px;">
+      <strong>[2026-04/05]</strong> Three papers accepted by ICML 2026, ICDE 2026, and ACL Findings 2026.
     </li>
     <li style="margin-bottom: 4px;">
       <strong>[2025-12]</strong> New arXiv preprint "Scoring, Reasoning, and Selecting the Best! Ensembling Large Language Models via a Peer-Review Process", introduces an unsupervised method to ensemble multiple LLM outputs.  <a href="https://zeyuji.github.io/LLM-PeerReview/">Project</a>, <a href="https://github.com/zeyuji/LLM-PeerReview">Github</a>, <a href="https://arxiv.org/abs/2512.23213">Paper</a>.
     </li>
     <li style="margin-bottom: 4px;">
-      <strong>[2025-12]</strong> Our 2025 survey "A Survey on LLM Ensemble" has gained 50+ citations and 180+ GitHub stars as of late Dec. 2025. <a href="https://junchenzhi.github.io/LLM-Ensemble/">Project</a>, <a href="https://github.com/junchenzhi/Awesome-LLM-Ensemble">Github</a>, <a href="https://github.com/junchenzhi/Awesome-LLM-Ensemble">Paper</a>.
+      <strong>[2025-12]</strong> Our 2025 survey "A Survey on LLM Ensemble" has gained 50+ citations and 180+ GitHub stars as of late Dec. 2025. <a href="https://junchenzhi.github.io/LLM-Ensemble/">Project</a>, <a href="https://github.com/junchenzhi/Awesome-LLM-Ensemble">Github</a>, <a href="https://arxiv.org/abs/2502.18036">Paper</a>.
     </li>
   </ul>
 </div>
