@@ -34,10 +34,6 @@ latest_posts:
   
 
 
-Currently, I am a Visiting Scholar in the Lab of Prof. [Yikun Ban](https://www.banyikun.com/) at Beihang University.
-I earned my PhD from the [School of Computer Science](https://scse.buaa.edu.cn/) at [Beihang University](https://ev.buaa.edu.cn/), advised by Prof. [Hailong Sun](https://hsun2022.github.io/).
-I have also had the privilege of working closely with and learning from Prof. [Jie Yang](https://yangjiera.github.io/) from Delft University of Technology.
-
 I am a Postdoctoral Researcher with Prof. [Xiao Huang](https://web.comp.polyu.edu.hk/xiaohuang/) at the [Department of Computing](https://www.polyu.edu.hk/comp/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/). 
 Previously, I was a Visiting Scholar in the Lab of Prof. [Yikun Ban](https://www.banyikun.com/) at Beihang University. 
 I earned my Ph.D. from the [School of Computer Science](https://scse.buaa.edu.cn/) at [Beihang University](https://ev.buaa.edu.cn/), advised by Prof. Hailong Sun. 
