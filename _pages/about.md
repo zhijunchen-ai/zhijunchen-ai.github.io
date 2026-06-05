@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Ph.D. graduate from Beihang University (Beijing, China)
+subtitle: Postdoc at The Hong Kong Polytechnic University; Ph.D. from Beihang University.
 
 
 profile:
