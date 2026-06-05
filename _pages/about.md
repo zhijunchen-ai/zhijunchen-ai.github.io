@@ -38,6 +38,11 @@ Currently, I am a Visiting Scholar in the Lab of Prof. [Yikun Ban](https://www.b
 I earned my PhD from the [School of Computer Science](https://scse.buaa.edu.cn/) at [Beihang University](https://ev.buaa.edu.cn/), advised by Prof. [Hailong Sun](https://hsun2022.github.io/).
 I have also had the privilege of working closely with and learning from Prof. [Jie Yang](https://yangjiera.github.io/) from Delft University of Technology.
 
+I am a Postdoctoral Researcher with Prof. [Xiao Huang](https://web.comp.polyu.edu.hk/xiaohuang/) at the [Department of Computing](https://www.polyu.edu.hk/comp/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/). 
+Previously, I was a Visiting Scholar in the Lab of Prof. [Yikun Ban](https://www.banyikun.com/) at Beihang University. 
+I earned my Ph.D. from the [School of Computer Science](https://scse.buaa.edu.cn/) at [Beihang University](https://ev.buaa.edu.cn/), advised by Prof. Hailong Sun. 
+I have also had the privilege of working closely with Prof. [Jie Yang](https://yangjiera.github.io/) from Delft University of Technology.
+
 
 **Research.** Recently, focus on **1) Ensemble Learning for LLMs**  ([arXiv 2025](https://arxiv.org/abs/2502.18036)), including Ensemble Inference/RL/SFT for LLMs, and other related topics (e.g., Best-of-N Test-Time Scaling, Multi-Prompt Learning); **2) Reinforcement Learning for LLMs.**
 Looking ahead, I will stay open-minded and aim to embark on research that is more broadly significant.
@@ -56,9 +61,6 @@ Looking ahead, I will stay open-minded and aim to embark on research that is mor
   <div style="margin-bottom: 1px;"><strong>News:</strong></div>
   
   <ul style="list-style-type: disc; margin-left: 2px;">
-   <li style="margin-bottom: 4px;">
-      <strong>[2026-05]</strong>  I will start my postdoc research this June.
-    </li>
     <li style="margin-bottom: 4px;">
       <strong>[2026-05]</strong>  Our survey "A Survey on LLM Ensemble" (100+ citations and 200+ GitHub stars) accepted by IJCAI 2026.  <a href="https://junchenzhi.github.io/LLM-Ensemble/">Project</a>, <a href="https://github.com/junchenzhi/Awesome-LLM-Ensemble">Github</a>, <a href="https://arxiv.org/abs/2502.18036">Paper</a>.
     </li>
