@@ -38,7 +38,7 @@ latest_posts:
 I am a Postdoctoral Researcher in the Lab of Prof. [Xiao Huang](https://web.comp.polyu.edu.hk/xiaohuang/) at the [Department of Computing](https://www.polyu.edu.hk/comp/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/). 
 Previously, I was a Visiting Scholar in the Lab of Prof. [Yikun Ban](https://www.banyikun.com/) at Beihang University. 
 I earned my Ph.D. from the [School of Computer Science](https://scse.buaa.edu.cn/) at [Beihang University](https://ev.buaa.edu.cn/), advised by Prof. [Hailong Sun](https://hsun2022.github.io/). 
-I have also had the privilege of working closely with and learning from Prof. [Jie Yang](https://yangjiera.github.io/) from Delft University of Technology.
+I have also had the privilege of learning from and working closely with Prof. [Jie Yang](https://yangjiera.github.io/) from Delft University of Technology.
 
 
 **Research.** 1)** Agent Self-Evolution**; 2)** Ensemble Learning for LLMs**  ([arXiv 2025](https://arxiv.org/abs/2502.18036)), including Ensemble Inference/RL for LLMs, and other related topics.
