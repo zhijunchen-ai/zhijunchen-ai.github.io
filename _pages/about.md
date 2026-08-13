@@ -41,7 +41,7 @@ I earned my Ph.D. from the [School of Computer Science](https://scse.buaa.edu.cn
 I have also had the privilege of learning from and working closely with Prof. [Jie Yang](https://yangjiera.github.io/) from Delft University of Technology.
 
 
-**Research.** 1)** Agent Self-Evolution**; 2)** Ensemble Learning for LLMs**  ([arXiv 2025](https://arxiv.org/abs/2502.18036)), including Ensemble Inference/RL for LLMs, and other related topics.
+**Research.** 1) **Agent Self-Evolution**; 2) **Ensemble Learning for LLMs**  ([IJCAI Survey 2026](https://arxiv.org/abs/2502.18036)), including Ensemble Inference/RL for LLMs, and other related topics.
 Looking ahead, I will stay open-minded and aim to embark on research that is more broadly significant.
 
 <strong>Collaboration.</strong> 1) If you are interested in my research, please feel free to reach out; 2) <span style="color: red; font-weight: bold;">Currently seeking early-stage students for collaboration</span> (mid-Aug to mid-Sep 2026). Content: coding, paper discussion, or leading research for ongoing papers and potentially a new Survey. Preference: undergraduate or master’s students from Beihang University or PolyU (PhD students are also welcome). Seeking collaborators: reliable, hard-working, interested in long-term collaboration. Please feel free to email me.
