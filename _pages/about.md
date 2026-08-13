@@ -52,7 +52,7 @@ Looking ahead, I will stay open-minded and aim to embark on research that is mor
   
   <ul style="list-style-type: disc; margin-left: 2px;">
     <li style="margin-bottom: 4px;">
-      <strong>[2026-05]</strong>  Our survey "A Survey on LLM Ensemble" (100+ citations and 200+ GitHub stars) accepted by IJCAI 2026.  <a href="https://junchenzhi.github.io/LLM-Ensemble/">Project</a>, <a href="https://github.com/junchenzhi/Awesome-LLM-Ensemble">Github</a>, <a href="https://arxiv.org/abs/2502.18036">Paper</a>.
+      <strong>[2026-05]</strong>  Our survey "A Survey on LLM Ensemble" (100+ citations and 200+ GitHub stars) accepted by IJCAI Survey 2026.  <a href="https://junchenzhi.github.io/LLM-Ensemble/">Project</a>, <a href="https://github.com/junchenzhi/Awesome-LLM-Ensemble">Github</a>, <a href="https://arxiv.org/abs/2502.18036">Paper</a>.
     </li>
    <li style="margin-bottom: 4px;">
       <strong>[2026-02-05]</strong> Three papers accepted by ICML 2026, ICDE 2026, and ACL Findings 2026.
