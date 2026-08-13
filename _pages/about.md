@@ -41,7 +41,7 @@ I earned my Ph.D. from the [School of Computer Science](https://scse.buaa.edu.cn
 I have also had the privilege of working closely with and learning from Prof. [Jie Yang](https://yangjiera.github.io/) from Delft University of Technology.
 
 
-**Research.** **1) Agent Self-Evolution**; **2) Ensemble Learning for LLMs**  ([arXiv 2025](https://arxiv.org/abs/2502.18036)), including Ensemble Inference/RL for LLMs, and other related topics.
+**Research.** 1)** Agent Self-Evolution**; 2)** Ensemble Learning for LLMs**  ([arXiv 2025](https://arxiv.org/abs/2502.18036)), including Ensemble Inference/RL for LLMs, and other related topics.
 Looking ahead, I will stay open-minded and aim to embark on research that is more broadly significant.
 
 <strong>Collaboration.</strong> 1) If you are interested in my research, please feel free to reach out; 2) <span style="color: red; font-weight: bold;">Currently seeking early-stage students for collaboration</span> (mid-Aug to mid-Sep 2026). Content: coding, paper discussion, or leading research for ongoing papers and potentially a new Survey. Preference: undergraduate or master’s students from Beihang University or PolyU (PhD students are also welcome). Seeking collaborators: reliable, hard-working, interested in long-term collaboration. Please feel free to email me.
@@ -55,7 +55,7 @@ Looking ahead, I will stay open-minded and aim to embark on research that is mor
       <strong>[2026-05]</strong>  Our survey "A Survey on LLM Ensemble" (100+ citations and 200+ GitHub stars) accepted by IJCAI 2026.  <a href="https://junchenzhi.github.io/LLM-Ensemble/">Project</a>, <a href="https://github.com/junchenzhi/Awesome-LLM-Ensemble">Github</a>, <a href="https://arxiv.org/abs/2502.18036">Paper</a>.
     </li>
    <li style="margin-bottom: 4px;">
-      <strong>[2026-02/03/04/05]</strong> Three papers accepted by ICML 2026, ICDE 2026, and ACL Findings 2026.
+      <strong>[2026-02-05]</strong> Three papers accepted by ICML 2026, ICDE 2026, and ACL Findings 2026.
     </li>
     <li style="margin-bottom: 4px;">
       <strong>[2025-12]</strong> New arXiv preprint "Scoring, Reasoning, and Selecting the Best! Ensembling Large Language Models via a Peer-Review Process", introduces an unsupervised method to ensemble multiple LLM outputs.  <a href="https://zeyuji.github.io/LLM-PeerReview/">Project</a>, <a href="https://github.com/zeyuji/LLM-PeerReview">Github</a>, <a href="https://arxiv.org/abs/2512.23213">Paper</a>.
