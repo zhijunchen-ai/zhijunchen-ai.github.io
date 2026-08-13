@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Postdoc at The Hong Kong Polytechnic University; Ph.D. from Beihang University.
+
 
 
 profile:
@@ -35,23 +35,16 @@ latest_posts:
 
 
 
-I am a Postdoctoral Researcher with Prof. [Xiao Huang](https://web.comp.polyu.edu.hk/xiaohuang/) at the [Department of Computing](https://www.polyu.edu.hk/comp/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/). 
+I am a Postdoctoral Researcher in the Lab of Prof. [Xiao Huang](https://web.comp.polyu.edu.hk/xiaohuang/) at the [Department of Computing](https://www.polyu.edu.hk/comp/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/). 
 Previously, I was a Visiting Scholar in the Lab of Prof. [Yikun Ban](https://www.banyikun.com/) at Beihang University. 
 I earned my Ph.D. from the [School of Computer Science](https://scse.buaa.edu.cn/) at [Beihang University](https://ev.buaa.edu.cn/), advised by Prof. [Hailong Sun](https://hsun2022.github.io/). 
 I have also had the privilege of working closely with and learning from Prof. [Jie Yang](https://yangjiera.github.io/) from Delft University of Technology.
 
 
-**Research.** Recently, focus on **1) Ensemble Learning for LLMs**  ([arXiv 2025](https://arxiv.org/abs/2502.18036)), including Ensemble Inference/RL/SFT for LLMs, and other related topics (e.g., Best-of-N Test-Time Scaling, Multi-Prompt Learning); **2) Reinforcement Learning for LLMs.**
+**Research.** **1) Agent Self-Evolution**; **2) Ensemble Learning for LLMs**  ([arXiv 2025](https://arxiv.org/abs/2502.18036)), including Ensemble Inference/RL for LLMs, and other related topics.
 Looking ahead, I will stay open-minded and aim to embark on research that is more broadly significant.
 
-
-
-
-**Ongoing.** 1) Ensemble RL for LLMs (MARL); 2) LLM Ensemble Inference + Test-Time Scaling; 3) An extended Journal version of our survey ([arXiv 2025](https://arxiv.org/abs/2502.18036)) on LLM Ensemble;
-
-**Collaboration.** If you are interested in my research, please feel free to reach out; for early-stage researchers, I am also happy to provide guidance and discuss ideas.
-
-
+<strong>Collaboration.</strong> 1) If you are interested in my research, please feel free to reach out; 2) <span style="color: red; font-weight: bold;">Currently seeking early-stage students for collaboration</span> (mid-Aug to mid-Sep 2026). Content: coding, paper discussion, or leading research for ongoing papers and potentially a new Survey. Preference: undergraduate or master’s students from Beihang University or PolyU (PhD students are also welcome). Seeking collaborators: reliable, hard-working, interested in long-term collaboration. Please feel free to email me.
 
 
 <div style="margin-top: 1px; margin-bottom: 20px;">
@@ -62,7 +55,7 @@ Looking ahead, I will stay open-minded and aim to embark on research that is mor
       <strong>[2026-05]</strong>  Our survey "A Survey on LLM Ensemble" (100+ citations and 200+ GitHub stars) accepted by IJCAI 2026.  <a href="https://junchenzhi.github.io/LLM-Ensemble/">Project</a>, <a href="https://github.com/junchenzhi/Awesome-LLM-Ensemble">Github</a>, <a href="https://arxiv.org/abs/2502.18036">Paper</a>.
     </li>
    <li style="margin-bottom: 4px;">
-      <strong>[2026-04/05]</strong> Three papers accepted by ICML 2026, ICDE 2026, and ACL Findings 2026.
+      <strong>[2026-02/03/04/05]</strong> Three papers accepted by ICML 2026, ICDE 2026, and ACL Findings 2026.
     </li>
     <li style="margin-bottom: 4px;">
       <strong>[2025-12]</strong> New arXiv preprint "Scoring, Reasoning, and Selecting the Best! Ensembling Large Language Models via a Peer-Review Process", introduces an unsupervised method to ensemble multiple LLM outputs.  <a href="https://zeyuji.github.io/LLM-PeerReview/">Project</a>, <a href="https://github.com/zeyuji/LLM-PeerReview">Github</a>, <a href="https://arxiv.org/abs/2512.23213">Paper</a>.
