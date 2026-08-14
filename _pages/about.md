@@ -52,16 +52,16 @@ Looking ahead, I will stay open-minded and aim to embark on research that is mor
   
   <ul style="list-style-type: disc; margin-left: 2px;">
     <li style="margin-bottom: 4px;">
-      <strong>[2026-05]</strong>  Our survey "A Survey on LLM Ensemble" (100+ citations and 200+ GitHub stars) accepted by IJCAI Survey 2026.  <a href="https://junchenzhi.github.io/LLM-Ensemble/">Project</a>, <a href="https://github.com/junchenzhi/Awesome-LLM-Ensemble">Github</a>, <a href="https://arxiv.org/abs/2502.18036">Paper</a>.
+      <strong>[2026-05]</strong>  Our survey "A Survey on LLM Ensemble" (100+ citations and 200+ GitHub stars) accepted by IJCAI Survey 2026. <a href="https://arxiv.org/abs/2502.18036">Paper</a>, <a href="https://junchenzhi.github.io/LLM-Ensemble/">Project</a>, <a href="https://github.com/junchenzhi/Awesome-LLM-Ensemble">Github</a>.
     </li>
    <li style="margin-bottom: 4px;">
-      <strong>[2026-02-05]</strong> Three papers accepted by ICML 2026, ICDE 2026, and ACL Findings 2026.
+      <strong>[2026-02-05]</strong> Three papers accepted by ICML 2026, ICDE 2026, and ACL Findings 2026. The ICDE 2026 paper introduces a RAG benchmark (9K+ downloads and 200+ GitHub stars), <a href="https://arxiv.org/abs/2412.15529">Paper</a>, <a href="https://github.com/DocAILab/XRAG">Github</a>, <a href="https://pypi.org/project/examinationrag/">Package</a>,  <a href="https://mp.weixin.qq.com/s/GtruKuxDq7O819Fxua1mBw">Blog</a>.
     </li>
     <li style="margin-bottom: 4px;">
-      <strong>[2025-12]</strong> New arXiv preprint "Scoring, Reasoning, and Selecting the Best! Ensembling Large Language Models via a Peer-Review Process", introduces an unsupervised method to ensemble multiple LLM outputs.  <a href="https://zeyuji.github.io/LLM-PeerReview/">Project</a>, <a href="https://github.com/zeyuji/LLM-PeerReview">Github</a>, <a href="https://arxiv.org/abs/2512.23213">Paper</a>.
+      <strong>[2025-12]</strong> New arXiv preprint "Scoring, Reasoning, and Selecting the Best! Ensembling Large Language Models via a Peer-Review Process", introduces an unsupervised method to ensemble multiple LLM outputs.  <a href="https://arxiv.org/abs/2512.23213">Paper</a>, <a href="https://zeyuji.github.io/LLM-PeerReview/">Project</a>, <a href="https://github.com/zeyuji/LLM-PeerReview">Github</a>, <a href="https://mp.weixin.qq.com/s/qqR5BW-TkHBaqPA5O-tWXw">Blog</a>.
     </li>
     <li style="margin-bottom: 4px;">
-      <strong>[2025-12]</strong> Our 2025 survey "A Survey on LLM Ensemble" has gained 50+ citations and 180+ GitHub stars as of late Dec. 2025. <a href="https://junchenzhi.github.io/LLM-Ensemble/">Project</a>, <a href="https://github.com/junchenzhi/Awesome-LLM-Ensemble">Github</a>, <a href="https://arxiv.org/abs/2502.18036">Paper</a>.
+      <strong>[2025-12]</strong> Our 2025 survey "A Survey on LLM Ensemble" has gained 50+ citations and 180+ GitHub stars as of late Dec. 2025.  <a href="https://arxiv.org/abs/2502.18036">Paper</a>, <a href="https://junchenzhi.github.io/LLM-Ensemble/">Project</a>, <a href="https://github.com/junchenzhi/Awesome-LLM-Ensemble">Github</a>.
     </li>
   </ul>
 </div>
