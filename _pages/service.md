@@ -8,7 +8,7 @@ nav_order: 6
 
 
 - **PC Member**: 
-  - ICLR 2025/2026
+  - ICLR 2025/2026/2027
   - NeurIPS 2024/2025/
   - ICML 2025/2026 
   - AAAI 2023/2024/2026/2027 
